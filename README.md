@@ -1,1 +1,3 @@
 # Data-Wrangling
+
+In this project, I used a movie dataset retrieved from Kaggle that showed the budgets, genres, and other insights for each movie to determine if specific types of genres generate more money and if there is any correlation between these characteristics for each movie. In the second part of this project, we also tested how different inflation rates in the United States affect these movie attributes. We have been driven to discover this information with the goal of compiling data on what contributes to the success of existing movies, ultimately using our findings to assist and consult production companies.
